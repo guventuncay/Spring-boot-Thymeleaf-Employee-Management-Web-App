@@ -21,6 +21,6 @@ CREATE TABLE `employee` (
 
 INSERT INTO `employee` VALUES 
 	(1,'Guven','TUNCAY','guven.tuncay01@gmail.com'),
-	(2,'Erdogan','TURPCU','erdogantrpc.gmail.com'),
+	(2,'Erdogan','TURPCU','erdogantrpc@gmail.com'),
 	(3,'Mehmetcan','DALMAZGIL','mehmet.dalmazgiller@gmail.com');
 
