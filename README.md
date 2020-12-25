@@ -4,7 +4,7 @@ Spring Boot, Spring Security (JDBC), Thymeleaf, Spring Data JPA, ...
 # Running locally
 ```
 git clone https://github.com/guventuncay/Spring-boot-Thymeleaf-Employee-Management-Web-App
-cd spring-petclinic
+cd Spring-boot-Thymeleaf-Employee-Management-Web-App
 ./mvnw package
 java -jar target/*.jar
 ```
