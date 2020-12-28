@@ -9,3 +9,6 @@ cd Spring-boot-Thymeleaf-Employee-Management-Web-App
 java -jar target/*.jar
 ```
 You can access app here: http://localhost:8080/
+
+References:
+- Chad Darby, Spring & Hibernate for Beginners, https://www.udemy.com/spring-hibernate-tutorial/
